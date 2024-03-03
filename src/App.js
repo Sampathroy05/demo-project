@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import DataTable from "react-data-table-component";
 import "./App.css";
 
+// atble data
 const columns = [
   {
     name: "S.No",
